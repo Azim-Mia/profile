@@ -2,7 +2,7 @@
 ##Address:  
 <b> Name:</b> Azin Islam<br/>
 <b> Age:</b> 21<br/>
-<b> Gender:</b> male
-<img src="/storage/dcim/Camera/azim.jpg" alt="photos"/>  
+<b> Gender:</b>Male  
+<img src="/data/data/com.termux/files/home/githubAddData/azim.jpg" alt="photos"/>  
 
 
