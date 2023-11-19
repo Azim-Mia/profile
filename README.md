@@ -5,4 +5,4 @@
 <b> Gender:</b>Male  
 <img src="/image/azim.jpg" alt="photos"/>  
 
-
+🧑‍🎓
